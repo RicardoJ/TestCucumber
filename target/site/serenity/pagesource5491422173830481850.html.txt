@@ -1,0 +1,225 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" class="" style="display: block;"><head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;" />
+    <meta name="twitter:widgets:csp" content="on" />
+    <title>Your Tweet has been posted!</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://abs.twimg.com/a/1531800871/css/tfw/intents_rosetta.bundle.css" />
+
+    <style type="text/css">
+      html { display:none; }
+    </style>
+    <noscript>
+      &lt;style type="text/css"&gt;
+        html { display: block; }
+      &lt;/style&gt;
+    </noscript>
+  </head>
+  
+  
+  <body class=" tfw en logged-in ltr   noloki js">
+
+    <div id="header" role="banner">
+      <div class="bar">
+        <h1 class="logo">
+          <a class="alternate-context" href="/home">Twitter</a>
+        </h1>
+
+        <div id="session" role="navigation">
+          <h2 class="current-user"><a href="/RicardoDiazHe17" title="Ricardo Diaz Herrera">
+            <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" alt="" width="32" height="32" />
+            <span class="name">RicardoDiazHe17</span>
+          </a></h2>
+          <div class="user-menu">
+            <div class="dropdown-caret">
+              <span class="caret-outer"></span>
+              <span class="caret-inner"></span>
+            </div>
+            <h3 class="session">User Management</h3>
+            <ul class="session">
+              <li class="view-profile"><a href="/RicardoDiazHe17" title="">View Profile</a></li>
+              <li class="new"><a href="/intent/tweet">New Tweet</a></li>
+              <li class="help break-before"><a href="/help">Help Center</a></li>
+              <li class="settings break-before"><a href="/settings">Settings</a></li>
+              <li class="signout">
+                <form action="/logout" method="post">
+                  <input type="hidden" name="_method" value="delete" />
+                  <input type="hidden" name="authenticity_token" value="f6fb2c58f72dd968a10f49d171eed16af82924eb" />
+                  <input type="hidden" name="referer" value="/intent/tweet/complete?url=https%3A%2F%2Fyoutu.be%2F4oT0-ps6Tf8&amp;text=Tito%20Rojas%20-%20Se%C3%B1ora%20D%C3%A9%20Madrugada&amp;latest_status_id=1019601335124193280&amp;related=YouTube%2CYouTubeTrends%2CYTCreators&amp;via=YouTube" />
+                  <input type="submit" class="textual link" value="Sign out" />
+                </form>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="bd" role="main">
+      <div class="action-information tweet-complete">
+  Your Tweet has been posted!
+  <a class="launch alternate-context" href="/RicardoDiazHe17/status/1019601335124193280">View it on Twitter</a>
+</div>
+
+  <div class="users related">
+    <h2>Who to follow</h2>
+
+    <ul class="user-list">
+      <li id="related-user-10228272">
+
+        <img src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T_normal.jpg" alt="" width="48" height="48" />
+        <span class="screenname">
+          <a href="/intent/user?screen_name=YouTube">YouTube</a>
+          <span class="name"><span class="username u-dir u-textTruncate" dir="ltr">@<b>YouTube</b></span>
+            <em> · 70,383,565 followers</em>
+            <em> · 22,661 tweets</em>
+            <span class="ic-sm-verified"><span class="visiblyhidden">Verified Account</span>
+        </span>
+        <div class="follow-button ">
+
+    <form class="follow " id="follow_btn_form" action="/intent/follow?screen_name=YouTube" method="post">
+      <input type="hidden" name="authenticity_token" value="f6fb2c58f72dd968a10f49d171eed16af82924eb" />
+      <input type="hidden" name="screen_name" value="YouTube" />
+        <input name="text" type="hidden" value="Tito Rojas - Señora Dé Madrugada" />
+  <input name="related" type="hidden" value="YouTube,YouTubeTrends,YTCreators" />
+  <input name="url" type="hidden" value="https://youtu.be/4oT0-ps6Tf8" />
+  <input name="via" type="hidden" value="YouTube" />
+
+      <input type="hidden" name="profile_id" value="" />
+
+      <button class="button" type="submit">
+        <b></b><strong>Follow</strong>
+      </button>
+    </form>
+
+    <form class="unfollow disabled" action="/intent/follow?screen_name=YouTube" method="post">
+      <input type="hidden" name="_method" value="delete" />
+      <input type="hidden" name="authenticity_token" value="f6fb2c58f72dd968a10f49d171eed16af82924eb" />
+      <input type="hidden" name="screen_name" value="YouTube" />
+
+        <input name="text" type="hidden" value="Tito Rojas - Señora Dé Madrugada" />
+  <input name="related" type="hidden" value="YouTube,YouTubeTrends,YTCreators" />
+  <input name="url" type="hidden" value="https://youtu.be/4oT0-ps6Tf8" />
+  <input name="via" type="hidden" value="YouTube" />
+
+      <input type="hidden" name="profile_id" value="" />
+
+      <button class="button" type="submit" disabled="">
+        <strong class="following">Following</strong>
+        <strong class="unfollow">Unfollow</strong>
+      </button>
+    </form>
+
+
+
+</div>
+
+        <span class="description">
+            Pivoting to video.
+        </span>
+      </span></span></li>
+      <li id="related-user-10228272">
+
+        <img src="https://pbs.twimg.com/profile_images/1013436760859299847/aQltRN9T_normal.jpg" alt="" width="48" height="48" />
+        <span class="screenname">
+          <a href="/intent/user?screen_name=YouTube">YouTube</a>
+          <span class="name"><span class="username u-dir u-textTruncate" dir="ltr">@<b>YouTube</b></span>
+            <em> · 70,383,565 followers</em>
+            <em> · 22,661 tweets</em>
+            <span class="ic-sm-verified"><span class="visiblyhidden">Verified Account</span>
+        </span>
+        <div class="follow-button ">
+
+    <form class="follow " id="follow_btn_form" action="/intent/follow?screen_name=YouTube" method="post">
+      <input type="hidden" name="authenticity_token" value="f6fb2c58f72dd968a10f49d171eed16af82924eb" />
+      <input type="hidden" name="screen_name" value="YouTube" />
+        <input name="text" type="hidden" value="Tito Rojas - Señora Dé Madrugada" />
+  <input name="related" type="hidden" value="YouTube,YouTubeTrends,YTCreators" />
+  <input name="url" type="hidden" value="https://youtu.be/4oT0-ps6Tf8" />
+  <input name="via" type="hidden" value="YouTube" />
+
+      <input type="hidden" name="profile_id" value="" />
+
+      <button class="button" type="submit">
+        <b></b><strong>Follow</strong>
+      </button>
+    </form>
+
+    <form class="unfollow disabled" action="/intent/follow?screen_name=YouTube" method="post">
+      <input type="hidden" name="_method" value="delete" />
+      <input type="hidden" name="authenticity_token" value="f6fb2c58f72dd968a10f49d171eed16af82924eb" />
+      <input type="hidden" name="screen_name" value="YouTube" />
+
+        <input name="text" type="hidden" value="Tito Rojas - Señora Dé Madrugada" />
+  <input name="related" type="hidden" value="YouTube,YouTubeTrends,YTCreators" />
+  <input name="url" type="hidden" value="https://youtu.be/4oT0-ps6Tf8" />
+  <input name="via" type="hidden" value="YouTube" />
+
+      <input type="hidden" name="profile_id" value="" />
+
+      <button class="button" type="submit" disabled="">
+        <strong class="following">Following</strong>
+        <strong class="unfollow">Unfollow</strong>
+      </button>
+    </form>
+
+
+
+</div>
+
+        <span class="description">
+            Pivoting to video.
+        </span>
+      </span></span></li>
+    </ul>
+  </div>
+
+    </div>
+
+
+      <div class="footer" role="navigation"><div id="ft">
+        <a class="return-link alternate-context" href="/">Go to Twitter</a>
+        <a class="supplemental-link alternate-context" href="https://publish.twitter.com">Embed Twitter in your website!</a>
+      </div></div>
+
+    <script id="LR2" type="text/javascript" async="" src="https://abs.twimg.com/a/1531800871/tfw/imports/jquery.js"></script><script id="LR1" type="text/javascript" async="" src="https://abs.twimg.com/a/1531800871/tfw/tfw/intents/main.js"></script><script type="text/javascript" charset="utf-8" nonce="">
+      var twttr = twttr || {};
+      twttr.form_authenticity_token = 'f6fb2c58f72dd968a10f49d171eed16af82924eb';
+      if (self == top) {
+        document.documentElement.style.display = 'block';
+      }
+    </script>
+
+    <script src="https://abs.twimg.com/a/1531800871/tfw/loadrunner.js" type="text/javascript" data-path="https://abs.twimg.com/a/1531800871/tfw" data-main="tfw/intents/main"></script>
+
+    <script type="text/javascript" charset="utf-8" nonce="">
+  if(window.opener) {
+    using('imports/jquery', function($) {
+      $('.return-link').replaceWith('&lt;input id="btn-close" class="button" type="button" value="Close"&gt;');
+      $("#btn-close").bind("click", function () {
+        self.close();
+      });
+    });
+  }
+
+
+</script>
+
+    <script type="text/javascript" nonce="">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+  try {
+    var pageTracker = _gat._getTracker("UA-30775-6");
+    pageTracker._setDomainName("twitter.com");
+    pageTracker._setVar('Logged In');
+    
+    pageTracker._setVar('lang: en');
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  } catch(err) { }
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+  
+
+</body></html>
